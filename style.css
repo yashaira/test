@@ -1,0 +1,22 @@
+p{
+  color: silver ;
+}
+
+#header{
+  display:flex;
+ justify-content:space-around;
+ background-color:black;
+}
+
+#picDiv{
+  display: flex;
+  justify-content:space-around;
+  background: linear-gradient(#54ff9f, white);
+}
+
+#homeGif{
+  height: 500px;
+  width: 1000px;
+  margin-top: 10px;
+}
+ 
